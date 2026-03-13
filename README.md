@@ -10,4 +10,4 @@
 ## Task 3: Joining and Revenue Analysis
 **Strategy:** Performed an `INNER JOIN` between `order_details` and `products` on `product_id`. Revenue is calculated per row as `quantity * unit_price` then summed by category.
 
-THANK YOU
+THANK YOU 💖
